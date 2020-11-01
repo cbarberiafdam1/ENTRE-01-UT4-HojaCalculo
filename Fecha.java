@@ -2,7 +2,7 @@
 /**
  *  Modela una fecha
  *  
- *  @author -
+ *  @author -  Carla Barberia Flamarique
  */
 public class Fecha
 {
